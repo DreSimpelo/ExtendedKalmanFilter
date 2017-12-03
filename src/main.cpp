@@ -90,6 +90,7 @@ int main()
           		iss >> timestamp;
           		meas_package.timestamp_ = timestamp;
           }
+          // Ground Truth
           float x_gt;
     	  float y_gt;
     	  float vx_gt;
